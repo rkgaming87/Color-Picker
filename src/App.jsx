@@ -10,12 +10,12 @@ const App = () => {
    return (
       <>
          {/* <Home/> */}
-         {/* <Todolist /> */}
+         <Todolist />
          {/* <Task1 /> */}
          {/* <Admissionform /> */}
          {/* <Corona /> */}
          {/* <CounterAdvanced /> */}
-         <Colorpicker />
+         {/* <Colorpicker /> */}
       </>
    )
 }
